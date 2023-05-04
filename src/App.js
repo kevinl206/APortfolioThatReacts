@@ -8,7 +8,6 @@ import About from "./components/About";
 import Portfolio from "./components/Portfolio";
 import Resume from "./components/Resume";
 import Contact from "./components/Contact";
-import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
 function App() {
 
 
