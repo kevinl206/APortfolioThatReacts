@@ -1,12 +1,27 @@
 import React from "react";
 
-export default function Footer() {
+function Footer() {
     return (
-  <footer id="contact">
-<h2> Contact me</h2>
-<p>kevinl206@yahoo.com</p>
-<p> AIM S/N: AzNsTuNna206</p>
-</footer>
-    )
-}
+      <footer className="footer">
+        <div className="content has-text-centered">
+          <p>
+            <strong>My Full Stack Development Portfolio</strong> - a React site by{" "}
+            <a href="https://github.com/kevinl206" target="_blank" rel="noreferrer">
+              Kevin Lang
+            </a>
+            .
+            <hr />
+            <a
+              href="https://www.linkedin.com/in/kevin-lang-443142104"
+              target="_blank" rel="noreferrer"
+            >
+              LinkedIn
+            </a>
+          </p>
+        </div>
+      </footer>
+    );
+  }
+  
+  export default Footer;
 

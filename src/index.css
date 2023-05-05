@@ -24,6 +24,10 @@
   --container-width-md: 86%;
   --container-width-sm: 90%; */
 }
+.navigation {
+    background-color: aqua;
+    color: white;
+}
 
 html {
   scroll-behavior: smooth;

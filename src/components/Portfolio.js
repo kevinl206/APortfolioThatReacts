@@ -15,9 +15,7 @@ export default function Portfolio() {
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
             </p>
             <div className="flex justify-between">
-              <a
-                href="#"
-                className="text-indigo-600 hover:text-indigo-800 font-medium">
+              <a href="#" className="text-indigo-600 hover:text-indigo-800 font-medium">
                 View App
               </a>
               <a
