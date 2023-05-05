@@ -17,14 +17,14 @@
 - First thing, first. Clone the repo.
 - Then Download and install "npm install" or "npm i".
 - After the npm install, enter this command:
-"npm start
+"npm start"
 - After running the application you will need to open the application in your browser at localhost:3000
  
 
 [Back to top](#)
   
 ## Screenshot of Example
-![Image]()
+![Image](./src/components/assets/Screenshot%202023-05-04%20at%209.17.35%20PM.png)
 
 
 [Back to top](#)
